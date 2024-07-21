@@ -31,6 +31,15 @@ VITE_SPOTIFY_CLIENT_ID=
 VITE_SPOTIFY_REDIRECT_URI=http://localhost:5173
 ```
 
+Install dependencies:
+
+Install nodejs
+
+```
+npm install react@latest
+
+```
+
 To run the development server:
 
 ```bash
